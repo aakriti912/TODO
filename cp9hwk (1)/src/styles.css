@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(151, 151, 81);
+}
+.container {
+  width: 300px;
+  height: 400px;
+  text-align: center;
+  position: relative;
+  left: 200px;
+  background-color: white;
+}
